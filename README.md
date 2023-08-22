@@ -58,7 +58,8 @@ Additional slides and notes will be provided in class.
 |**F**|>=0%|
 
 
-## Weeks 1-2: (Aug 23, Aug 30)
+## Weeks 1-2: (Aug 22, Aug 29)
+
 Databases in data science. Data models: diverse ways to think about data: hiearchical, network, relational, object, graph, and document data models.
 History of datatabases and database technologies. Next-generation databases.
 
@@ -78,11 +79,11 @@ Using `datajoint` as a high-level interface.
 
 Datatypes: numerical, character strings, and enum. 
 
-### Homework 1 (due Sep 1)
-1. [Installation of SQL Magic for Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Install-SQL-Magic.ipynb)
-2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
 
-2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
+### Homework 1 (due Sep 6)
+1. Run the `db-course` tutorials from https://github.com/MSDS-5315/datajoint-tutorials in Dev Container on your computer or on CodeSpaces.
+
+2. On the MySQL server, create a database named `university` and define a table named `person`. Make sure it has a well chosen primary key. 
  * Connect to the database server 
  * Create a schema, a table within it, and insert at least one row. 
 
@@ -148,7 +149,7 @@ Database, database system, database server, data model, data integrity, data con
 * [Assignment 5](Assign5.md) -- Due Sep 29
 
 
-## Weeks 6-8 (Sep 27, Oct 4, Oct 11 (Fall Break), Oct 18)
+## Weeks 6-8 (Sep 26, Oct 3, Oct 10 (Fall Break), Oct 17)
 
 Surrogate keys / Natural keys. 
 Indexes, secondary unique keys.
@@ -173,7 +174,7 @@ Reading: Harrington  Chapters 16-19
 * [Assignment 7](Assign7.md) -- Due Oct 27 
 * [Assignment 8](Assign8.md) -- Due Nov 3
 
-## Weeks 9, 10 (Oct 25, Nov 1, Nov 8)
+## Weeks 9, 10 (Oct 24, Oct 31, Nov 7)
 
 
 Modeling relationships: 
@@ -198,7 +199,7 @@ Reading:
 * Harrington: Chapters 13, 14, 15 (case studies), 22 (concurrency and transactions)
 
 
-## Weeks 11-13 (Nov 15 --- no lecture, work on Final; Nov 22, Nov 29):
+## Weeks 11-13 (Nov 14, Nov 21, Nov 28):
 Putting it all together. Practical examples
 
 Final: Design due on Nov 27.  Complete submission Dec 13.
