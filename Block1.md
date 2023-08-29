@@ -23,6 +23,7 @@ Questions for Block 1 (Lectures 1-2)
 1. What is a *data query*?
 1. What is a *data model*? Example data models: hierarchical, network, key-value, document, graph, relational, object model. 
 1. A computer filesystem is one form of a data management system. What is its data model? Specifically: what are the primary data structures and what operations do they support?
+1. Would you classify a file sharing system such as DropBox or GoogleDrive a database? 
 1. What is *user access management*?
 1. What is *user authentication*? 
 1. Name two free open-source relational database management systems.

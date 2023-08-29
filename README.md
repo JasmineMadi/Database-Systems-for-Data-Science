@@ -60,8 +60,9 @@ Additional slides and notes will be provided in class.
 
 ## Weeks 1-2: (Aug 22, Aug 29)
 
+History of datatabases and database technologies.
+
 Databases in data science. Data models: diverse ways to think about data: hiearchical, network, relational, object, graph, and document data models.
-History of datatabases and database technologies. Next-generation databases.
 
 Database access. Creating SQL tables and inserting data. Simple queries. sqlite and mysql.
 
@@ -80,12 +81,15 @@ Using `datajoint` as a high-level interface.
 Datatypes: numerical, character strings, and enum. 
 
 
-### Homework 1 (due Sep 6)
-1. Run the `db-course` tutorials from https://github.com/MSDS-5315/datajoint-tutorials in Dev Container on your computer or on CodeSpaces.
+### Homework 1 (due Sep 5)
+1. On GitHuh, fork the repository  https://github.com/MSDS-5315/datajoint-tutorials into your repository.
+   Run the `db-course` tutorials in Dev Container in VSCode on your computer or on GitHub CodeSpaces.
 
 2. On the MySQL server, create a database named `university` and define a table named `person`. Make sure it has a well chosen primary key. 
  * Connect to the database server 
  * Create a schema, a table within it, and insert at least one row. 
+
+Report success to the instructor. Learn to start and stop your own  database server and to connect to it reliably.  This will be necessary for all your subsequent assignments. 
 
 
 ### Readings: 
@@ -106,11 +110,15 @@ Database, database system, database server, data model, data integrity, data con
 * Execute queries with a client library (`pymysql`). Generate fake data. See notebook `Fake-It.ipynb`
 * Execute queries using DataJoint. See notebooks `DataJoint-config` and `DataJoint-Intro`.
 
-### Homework 2 (due Sep 8)
+### Homework 2 (due Sep 12)
 
-1. Answer questions in [Block 1](Block1.md). Submit as a PDF file as a direct message to the TA and the instructor on Slack.  
 
-## Weeks 3-5: (Sep 6, Sep 13, Sep 20)
+1. Answer questions in [Block 1](Block1.md). You can check your answers with ChatGPT or a similar service.  Do not turn in your answers.
+
+
+## Weeks 3-5: (Sep 5, Sep 12, Sep 19)
+
+Data models: diverse ways to think about data: hiearchical, network, relational, object, graph, and document data models. 
 
 ### Key concepts 
 
