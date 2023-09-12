@@ -110,10 +110,10 @@ Database, database system, database server, data model, data integrity, data con
 * Execute queries with a client library (`pymysql`). Generate fake data. See notebook `Fake-It.ipynb`
 * Execute queries using DataJoint. See notebooks `DataJoint-config` and `DataJoint-Intro`.
 
-### Homework 2 (due Sep 12)
-
+### Homework 2 (due Sep 13)
 
 1. Answer questions in [Block 1](Block1.md). You can check your answers with ChatGPT or a similar service.  Do not turn in your answers.
+Come up with one original non-trivial question about the material and post it in the class chatroom. Provide your own answer as well. 
 
 
 ## Weeks 3-5: (Sep 5, Sep 12, Sep 19)
@@ -144,7 +144,7 @@ Data models: diverse ways to think about data: hiearchical, network, relational,
   * Example databases: https://dev.mysql.com/doc/index-other.html
   * https://www.datajoint.com/blog/2021-09-28-data-needs-direction
 
-[Assignment 3](Assign3.md) -- Due Sep 22 (extended by one week)
+[Assignment 3](Assign3.md) -- Due Sep 26
 
 ### Resources and exercises
 * [SimpleQueries](notebooks/SimpleQueries.ipynb)
