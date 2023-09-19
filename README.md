@@ -82,8 +82,8 @@ Datatypes: numerical, character strings, and enum.
 
 
 ### Homework 1 (due Sep 5)
-1. On GitHuh, fork the repository  https://github.com/MSDS-5315/datajoint-tutorials into your repository.
-   Run the `db-course` tutorials in Dev Container in VSCode on your computer or on GitHub CodeSpaces.
+1. On GitHub, fork the repository  https://github.com/MSDS-5315/datajoint-tutorials into your repository.
+   Run the `db-course` tutorials in Dev Container in VSCode on your computer or on GitHub CodeSpaces, following the README instructions. 
 
 2. On the MySQL server, create a database named `university` and define a table named `person`. Make sure it has a well chosen primary key. 
  * Connect to the database server 
@@ -142,7 +142,6 @@ Data models: diverse ways to think about data: hiearchical, network, relational,
   * Beaulieu, Chapters 3-4
   * Beaulieu [Appendix A. ER Diagram](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/app01.html)
   * Example databases: https://dev.mysql.com/doc/index-other.html
-  * https://www.datajoint.com/blog/2021-09-28-data-needs-direction
 
 [Assignment 3](Assign3.md) -- Due Sep 26
 
@@ -153,8 +152,13 @@ Data models: diverse ways to think about data: hiearchical, network, relational,
 * [PersonAccounts](notebooks/PersonAccounts.ipynb)
 
 
-* [Assignment 4](Assign4.md) -- Due Sep 22
-* [Assignment 5](Assign5.md) -- Due Sep 29
+* [Assignment 4](Assign4.md) -- Due Oct 3
+
+
+Work in progress
+-------------------
+
+* [Assignment 5](Assign5.md) -- Due Oct 10
 
 
 ## Weeks 6-8 (Sep 26, Oct 3, Oct 10 (Fall Break), Oct 17)
