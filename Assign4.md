@@ -1,69 +1,51 @@
-# Homework 4
+## Assignment 4
 
-## Simple SQL queries
+Design schemas for the following database designs.
+* Make sure that the tables have a proper primary key that correctly enforces *entity integrity*.
+* Make sure that the table has all the required columns with appropriate data types  and null constraints 
+* Introduce appropriate foreign key to enforce the constraints. 
+* Include an insert statement to populate a few entries into each table but you do not need to completely fill the tables. 
+* Follow best conventions and practices we discussed in class.
+* Ensure that your schema is in 3rd normal form.
+* Execute the entire assignment in one notebook, print it and submit the PDF to the instructor by Slack. 
 
-This is a pure SQL assignment. Submit the assignment as PDF of the notebook using SQL Magic or as a simple text file containing the SQL code for each problem. 
+You can use DataJoint, SQL Jupypter Magic, or `pymysql` to interact with the database. 
 
-We will work with two database on the server: `shared_sales` and `shared_sakila`. 
 
-The sales database closely matches the sales database from John L. Viescas' "SQL Queries for Mere Mortals" https://learning.oreilly.com/library/view/sql-queries-for/9780134858432/ 
+### Problem 1.  Students and Assignments 
+Design a database that 
 
-You can review chapters 4, 5, and 6 for additional explanations of SQL queries.
+1. Students in this class.
+2. Assignments in this class, including a link to its specification. 
+3. If assignment has been graded, store the grade for each student and each assignment. 
 
-Use the SQL `SHOW SCHEMAS` and `SHOW TABLES` and `SHOW CREATE TABLE` commands to understand the structure of the data in the database.
-You can use diagramming software to learn the schema. 
 
-These queries will contain only one select statement with no joins or groupings. Some queries will require a subquery in the `WHERE` clause.
+### Problem 2. Library 
+Design a database to represents books in the library. You may try to learn how real libraries identify copies of the same book.
 
-Finally, make sure that your submission is easy to understand. Include the problem statement in a comment preceding your solution.
+1. Books have an ISBN but multiple copies of the same title may exist.
+2. The library has members. They have a name and an address. 
+3. A library member can check out any book, include the checkout date.
+4. The book may not be checked out by two people at the same time. 
+5. Some books are not checked out. 
 
-## USE `shared_sales`
+### Problem 3. Bank
+Design a database to represent bank customers and their accounts.
 
-### Problem 1: 
+1. A bank has branches that have a phone and a street address.
+1. The Bank has customers.
+2. Each customer has one "home branch."
+2. The bank manages bank accounts, which can be either "savings" or "checking."
+3. Each account has exactly one customer as its owner.
 
-Show the names and addresses of all employees
+### Problem 4. Online App
+You are designing a smart phone app 
 
-### Problem 2: 
+1. Users can subscribe for free, identified by their phone number
+2. Users can add one or more credits cards to their account.
+3. The app has paid add-ons called "Track & Field", "Marathon", and "Sprint", each with a fixed price.
+4. A user can purchase each add-on, in which case she must provide a credit card for the purchase.
 
-Show the vendor names sorted by state and city.
 
-### Problem 3:
-
-Show all products, but display their price reduced by 5%.
-
-### Problem 4:
-
-Show the list of orders made by each customer in descending order date. Hint: you might need to order by more than one column. You do not need to include the customers' names -- the customer ID will suffice.
-
-### Problem 5:
-
-List the five most expensive products.
-
-### Problem 6: (subqueries)
-List the total value of each product's stock (price x quantity)
-
-### Problem 7: (subqueries)
-List all products that have never been sold.
-
-## Use `shared_sakila`
-
-### Problem 8:
-
-List all movies over 3 hours in length
-
-### Problem 9:
-
-List all movies containing the substring "GUMP" in them
-
-### Problem 10:
-List the last rental date for customer 148. 
-
-### Problem 11: 
-
-List the titles of all movies in the "Horror" category in alphabetical order
-
-### Problem 12:
-
-List all actors who have acted in horror movies.
 
 
