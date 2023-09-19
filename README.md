@@ -146,10 +146,8 @@ Data models: diverse ways to think about data: hiearchical, network, relational,
 [Assignment 3](Assign3.md) -- Due Sep 26
 
 ### Resources and exercises
-* [SimpleQueries](notebooks/SimpleQueries.ipynb)
 * http://www.w3resource.com/mysql-exercises/ 
 * http://www.w3resource.com/sql-exercises/
-* [PersonAccounts](notebooks/PersonAccounts.ipynb)
 
 
 * [Assignment 4](Assign4.md) -- Due Oct 3
