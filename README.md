@@ -113,16 +113,16 @@ Database, database system, database server, data model, data integrity, data con
 ### Homework 2 (due Sep 13)
 
 1. Answer questions in [Block 1](Block1.md). You can check your answers with ChatGPT or a similar service.  Do not turn in your answers.
-Come up with one original non-trivial question about the material and post it in the class chatroom. Provide your own answer as well. 
+Come up with one original non-trivial question about the material and post it in the class chat room. Provide your own answer as well. 
 
 
 ## Weeks 3-5: (Sep 5, Sep 12, Sep 19)
 
-Data models: diverse ways to think about data: hiearchical, network, relational, object, graph, and document data models. 
+Data models: diverse ways to think about data: hierarchical, network, relational, object, graph, and document data models. 
 
 ### Key concepts 
 
-* Data models: structured (schema) and self-desccribing (schema-less). 
+* Data models: structured (schema) and self-describing (schema-less). 
 * How a database table works. 
 * Schema design. Simple queries. Primary key. Foreign keys. Entity integrity. Referential integrity. 
 * Normalization. First normal form.  Entity normalization.
