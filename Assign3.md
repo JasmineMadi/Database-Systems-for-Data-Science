@@ -10,7 +10,7 @@ You can use DataJoint, SQL Jupypter Magic, or `pymysql` to interact with the dat
 
 1. Courses at the University of St Thomas, including the department name, and a course description.  
 2. Birthdays and emails for the students in this class. 
-3. Boston Marathon champions for each year for men's and  women's open divisions. Include the runner's nationality and their nationality.
+3. Boston Marathon champions for each year for men's and  women's open divisions. Include the runner's nationality and their time.
 4. US State capitals, state birds and flowers
 5. HTML colors including their names, R, G, and B values.
 6. Students' grades for each homework assignment in this course. Do include the student's email, assignment number, and the grade, but you do not need to include any course information.
