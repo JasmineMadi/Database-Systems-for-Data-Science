@@ -13,7 +13,7 @@ You can use DataJoint, SQL Jupypter Magic, or `pymysql` to interact with the dat
 
 
 ### Problem 1.  Students and Assignments 
-Design a database that 
+Design a database that handles assignments and grades in this course.
 
 1. Students in this class.
 2. Assignments in this class, including a link to its specification. 

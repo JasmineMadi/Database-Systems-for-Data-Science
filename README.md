@@ -153,17 +153,17 @@ Data models: diverse ways to think about data: hierarchical, network, relational
 * [Assignment 4](Assign4.md) -- Due Oct 3
 
 
-Work in progress
--------------------
 
-* [Assignment 5](Assign5.md) -- Due Oct 10
-
+* [Assignment 5](https://github.com/msds-5315/datajoint-tutorials/blob/main/db-course/005-Queries-HW.ipynb) -- Due Oct 17 
 
 ## Weeks 6-8 (Sep 26, Oct 3, Oct 10 (Fall Break), Oct 17)
 
 Surrogate keys / Natural keys. 
 Indexes, secondary unique keys.
 Data serialization - blobs.
+
+-------
+[Work in progress]
 
 Notebooks 
 * [Joins](notebooks/Joins.ipynb)
@@ -179,6 +179,7 @@ Advanced Queries:
 * Aggregations 
 
 Reading: Harrington  Chapters 16-19
+
 
 * [Assignment 6](Assign6.md) -- Due Oct 20 
 * [Assignment 7](Assign7.md) -- Due Oct 27 
