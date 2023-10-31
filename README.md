@@ -162,9 +162,6 @@ Surrogate keys / Natural keys.
 Indexes, secondary unique keys.
 Data serialization - blobs.
 
--------
-[Work in progress]
-
 Notebooks 
 * [Joins](notebooks/Joins.ipynb)
 * [GroupBy](notebooks/GroupBy.ipynb)
@@ -181,11 +178,10 @@ Advanced Queries:
 Reading: Harrington  Chapters 16-19
 
 
-* [Assignment 6](Assign6.md) -- Due Oct 20 
-* [Assignment 7](Assign7.md) -- Due Oct 27 
-* [Assignment 8](Assign8.md) -- Due Nov 3
-
 ## Weeks 9, 10 (Oct 24, Oct 31, Nov 7)
+
+* [Assignment 6](https://github.com/msds-5315/datajoint-tutorials/blob/main/db-course/006-Joins-HW.ipynb) -- Due Nov 9
+* [Assignment 7](https://github.com/msds-5315/datajoint-tutorials/blob/main/db-course/007-Aggregation-HW.ipynb) -- Due Nov 16
 
 
 Modeling relationships: 
@@ -200,10 +196,6 @@ Modeling relationships:
 
 Transaction processing.
 
-* [Hotel Database](notebooks/Hotel.ipynb) -- a sample database project solution.
-* [Design Patterns](notebooks/DesignPatterns.ipynb)
-
-* [Assignment 9](Assign9.md) -- Due Nov 17 
 
 Reading: 
 
@@ -215,5 +207,4 @@ Putting it all together. Practical examples
 
 Final: Design due on Nov 27.  Complete submission Dec 13.
 
-* [Final-2022](Final-2022.md) 
 
