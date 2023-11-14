@@ -196,6 +196,8 @@ Modeling relationships:
 
 Transaction processing.
 
+* [Assignment 8](https://github.com/msds-5315/datajoint-tutorials/blob/main/db-course/008-Transactions-HW.ipynb) -- Due Nov 28.
+
 
 Reading: 
 
