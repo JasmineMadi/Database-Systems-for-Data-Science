@@ -196,7 +196,7 @@ Modeling relationships:
 
 Transaction processing.
 
-* [Assignment 8](https://github.com/msds-5315/datajoint-tutorials/blob/main/db-course/008-Transactions-HW.ipynb) -- Due Nov 28.
+* [Assignment 8](https://github.com/msds-5315/datajoint-tutorials/blob/main/db-course/008-Transactions-HW.ipynb) -- Due Nov 30.
 
 
 Reading: 
@@ -207,6 +207,8 @@ Reading:
 ## Weeks 11-13 (Nov 14, Nov 21, Nov 28):
 Putting it all together. Practical examples
 
-Final: Design due on Nov 27.  Complete submission Dec 13.
+Final: Design due for review on Dec 05.  Complete submission Dec 12.
+
+[Final](https://github.com/msds-5315/datajoint-tutorials/blob/main/db-course/011-Final.ipynb)
 
 
